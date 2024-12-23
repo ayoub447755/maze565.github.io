@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Great+Vibes&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Georgia&display=swap">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Georgia&display=swap
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Love Letter</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background: linear-gradient(135deg, #ff7b7b, #ff9f9f);
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.2);
+            border-radius: 10px;
+            max-width: 600px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+        }
+        h1 {
+            font-family: 'Dancing Script', cursive;
+            font-size: 48px;
+            color: #ffdfdf;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 20px;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        .signature {
+            font-family: 'Great Vibes', cursive;
+            font-size: 32px;
+            color: #ffe6e6;
+            margin-top: 20px;
+        }
+        .send-button {
+            padding: 10px 20px;
+            font-size: 18px;
+            background-color: #ff7b7b;
+            border: none;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .send-button:hover {
+            background-color: #ff04c0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>From My Heart</h1>
+        <p>
+            Dear nour ,<br><br>
+            I wanted to write you this letter to express what words often fail to capture. My heart beats for you, and in every moment spent together, Every word, e, is a testament to the love that binds us.i hope to spend the next year togrther,and i would also like to thank you 💌🌹
+        </p>
+        <p>
+            Thank you for being the light in my life. I cherish you more than I could ever express in a letter. 
+        </p>
+        <p class="signature">this is for you🌹💐 </p>
+        <p class="signature">to my lady nour💗 </p>
+        
+        <button class="send-button">to best girl I know </button>
+    </div>
+  
